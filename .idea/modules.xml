@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DCache.iml" filepath="$PROJECT_DIR$/DCache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jin/jin.iml" filepath="$PROJECT_DIR$/jin/jin.iml" />
       <module fileurl="file://$PROJECT_DIR$/mice/mice.iml" filepath="$PROJECT_DIR$/mice/mice.iml" />
     </modules>
   </component>
