@@ -7,6 +7,9 @@ import android.widget.ImageView;
 
 import java.lang.ref.SoftReference;
 
+/**
+ * common listener.
+ */
 public class BaseLoadListener implements OnSetImageListener {
     SoftReference<ImageView> view;
 
