@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/jin/jin.iml" filepath="$PROJECT_DIR$/jin/jin.iml" />
       <module fileurl="file://$PROJECT_DIR$/mice/mice.iml" filepath="$PROJECT_DIR$/mice/mice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunny/sunny.iml" filepath="$PROJECT_DIR$/sunny/sunny.iml" />
     </modules>
   </component>
 </project>
